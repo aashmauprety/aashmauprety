@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashma
-- 👀 I’m interested in researching new topics and expand my knowledge areas
+- 👀 I’m interested in Machine Learning application on various domains.
 - 🌱 I’m currently learning applied deep reinforcement learning 
 
 
